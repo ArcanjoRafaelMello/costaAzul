@@ -222,4 +222,14 @@ footer {
   header {
     gap: 12px;
   }
+  .service ol {
+  margin: 0;
+  padding-left: 20px;
+  color: #456e75;
+  font-size: 14px;
+}
+
+.service li {
+  margin-bottom: 6px;
+}
 }
